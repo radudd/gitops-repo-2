@@ -1,6 +1,6 @@
 {
-    "destinationNamespace": "team1",
-    "configGitRepo": "https://github.com/radudd/gitops-repo-1",
+    "destinationNamespace": "team2",
+    "configGitRepo": "https://github.com/radudd/gitops-repo-2",
     "helm": {
        "chartVersion": "1.0.5",
        "repo": "https://charts.stderr.at/",
