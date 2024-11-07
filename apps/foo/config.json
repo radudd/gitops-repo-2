@@ -1,0 +1,9 @@
+{
+    "destinationNamespace": "team1",
+    "configGitRepo": "https://github.com/radudd/gitops-repo-1",
+    "helm": {
+       "chartVersion": "1.0.5",
+       "repo": "https://charts.stderr.at/",
+       "chartType": "cert-manager"
+       } 
+}
